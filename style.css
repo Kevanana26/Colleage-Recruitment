@@ -1,0 +1,10 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-color: darkred; font-family:'Bungee Shade', cursive; margin: 0;
+  }
+  h1 {
+    background-color: royalblue; margin-top: 0;
+  }
